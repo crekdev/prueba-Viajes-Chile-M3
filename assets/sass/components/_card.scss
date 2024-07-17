@@ -1,0 +1,16 @@
+/*Estilos de card + transition para efecto al :hover*/
+.card {
+  transition: 0.3s;
+
+  &:hover {
+    transform: scale(1.05);
+  }
+
+  &.card-text {
+    &--bottom {
+      background-color: white;
+      padding-block: 1rem;
+      padding-inline: 0.3rem;
+    }
+  }
+}

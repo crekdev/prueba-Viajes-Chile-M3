@@ -1,0 +1,32 @@
+@charset 'UTF-8';
+
+//Abstracts
+@import 
+  'abstracts/variables',
+  'abstracts/mixins';
+
+  // Vendors
+@import
+  'vendors/bootstrap';
+
+// base
+@import 'base/typography';
+
+// layout
+
+
+//components
+@import
+  'components/carousel',
+  'components/card',
+  'components/testimonio';
+
+// pages
+
+// themes
+@import 'themes/theme';
+
+
+//shame
+@import
+  'shame/shame';

@@ -1,0 +1,24 @@
+/*Estilos body casi todo va a theme*/
+body {
+  background-color: $body-color;
+}
+
+/*Estilos en titulos*/
+h2 {
+  font-weight: 700;
+}
+
+
+/*Estilos barra de navegación*/
+nav {
+  scroll-behavior: smooth;
+  -webkit-backdrop-filter: blur(3px);
+  backdrop-filter: blur(3px);
+}
+
+/*Estilos barra de footer*/
+footer {
+  background-color: $footer-color;
+  color: $text-color;
+}
+
