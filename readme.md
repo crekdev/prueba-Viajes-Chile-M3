@@ -75,13 +75,17 @@ prueba-Viajes-Chile/
 
 1. **Clonar el repositorio**:
     ```bash
-    git clone git@github.com:crekdev/prueba-Viajes-Chile.git
+    git clone git@github.com:crekdev/prueba-Viajes-Chile-M3.git
     ```
 2. **Navega al directorio del proyecto**
     ```bash
-    cd prueba-Viajes-Chile
+    cd prueba-Viajes-Chile-M3
     ```
-3. Abrir `index.html` en tu navegadorpara ver el sitio web.
+3. **Instala boostrap al directorio del proyecto**
+    ```bash
+    npm i bootstrap@5.3.3
+    ```    
+4. Abrir `index.html` en tu navegadorpara ver el sitio web.
 
 
 ## Autores
