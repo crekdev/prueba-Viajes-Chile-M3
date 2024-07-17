@@ -5,13 +5,12 @@
 - [Descripción](#descripción)
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Uso](#uso)
 - [Instalación](#instalación)
 - [Autores](#autores)
 
 ## Descripción
 
-Viajes Chile es una landing page sobre viajes y destinos turísticos en Chile. La página posee barra de navegación, carrusel de imágenes, secciones cards informativas, formulario de contacto y footer con las RRSS.
+Viajes Chile es una landing page sobre viajes y destinos turísticos en Chile. La página posee barra de navegación, carrusel de imágenes, secciones cards informativas, formulario de contacto, testimonios y footer con las RRSS.
 
 
 ## Estructura del Proyecto
@@ -61,14 +60,6 @@ prueba-Viajes-Chile/
 - **Google Fonts**: Se utilizó:
   - [OpenSans]
 
-## Uso
-
-- **Navegación**: Puedes utilizar la barra de navegación e ir directamente a: Home, Quienes Somos, Destacados, y Contacto.
-- **Carrusel de Imágenes**: Ve las mejores registros fotogáficos que han dejado los viajes.
-- **Sección "Quienes Somos"**: Conocenos más, revisa la información sobre nosotros.
-- **Sección "Destacados"**: Revisa los mejores lugares para viajar, fijate que los destinos nuevos están marcado con la etiqueta "Nuevo" en su título y un tooltip sobre la misma.
-- **Formulario de Contacto**: Completa el formulario para contactarnos. Haz click y espera la confirmación de envío. El botón posee un tooltip.
-- **Footer**: Revisa la redes sociales.
 
 
 ## Instalación
