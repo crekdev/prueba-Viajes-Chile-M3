@@ -13,7 +13,6 @@
 
 Viajes Chile es una landing page sobre viajes y destinos turísticos en Chile. La página posee barra de navegación, carrusel de imágenes, secciones cards informativas, formulario de contacto y footer con las RRSS.
 
-[Ver demo](https://crekdev.github.io/prueba-Viajes-Chile/)
 
 ## Estructura del Proyecto
 
